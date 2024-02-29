@@ -1,0 +1,23 @@
+/*
+SUBMITTED BY-
+NAME: -KANISHKA
+STUDENT ID: 155238223
+SENECA EMAIL: KANISHKA1@MYSENECA.CA
+DATE OF SUBMISSION: February 1, 2024
+*/
+
+In the Room Reservation System Workshop, I learned how to design a code with 
+modular programming including classes, structs and dynamic memory allocation 
+and deallocation. It was pretty interesting working with classes and structs 
+at the same time. The workshop helped me understand the polymorphism, data 
+encapsulation, abstraction and polymorphism convcepts practically. Also, It
+was important to learn the constructor and destructor concepts to manage the
+room and guest information correctly. One notable error i encountered was during 
+dynamic memory allocation and deallocation. I was facing these issues again
+and again especially when deallocating memory to avoid memory leaks. Correcting
+them required a proper understanding of all the concepts which made my
+understanding of the OOP concepts strong and improved my problem-solving
+skills.To fix these memory leaks, I needed to ensure that all dynamically 
+allocated memory is properly deallocated before the program exits. This not 
+only helped me improve my programming skills but also helped me understand the 
+importance of good programming practices.

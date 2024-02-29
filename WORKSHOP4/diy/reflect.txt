@@ -1,0 +1,16 @@
+The workshop about the guitar and guitar strings helped me understand the key concepts 
+of object oriented programming. In this workshop, we had to create two objects namely 
+Guitar and GuitarStr in which we had to make private and public member variables as well
+as function. Declaring each variable under proper namespaces and then accessing them 
+in proper ways helped me strengthen the concepts of encapsulation. Further, the creation 
+of constructor and destructor helped me how to allocate and deallocate the memory. I did 
+face some errors in case of memory deallocation which were visible in the output, and 
+having to fix these errors made me dig deeper into the concepts. Also, I learned the 
+importance of memory management to avoid any kind of memory leaks. I faced some issues 
+in this case as matrix showed some memory leaks at first but I managed to solve these 
+by deallocating memory at proper places. Overall, the workshop helped me understand OOP 
+principles better and gave me important skills for building reliable C++ software systems.
+
+
+
+
